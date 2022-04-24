@@ -2,7 +2,7 @@
     <div class="float-right d-none d-sm-block">
       <b>Version</b> 3.1.0
     </div>
-    <strong>Habibi &copy; 2022 <a href="https://github.com/muhammadazkarizqi">Github</a>.</strong> UTS - Project.
+    <strong>Habibi &copy; 2022 <a href="https://github.com/LittleKatyusha">Github</a>.</strong> UTS - Project.
   </footer>
 
   <!-- Control Sidebar -->
